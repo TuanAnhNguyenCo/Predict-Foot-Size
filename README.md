@@ -1,0 +1,1 @@
+- Dự án này nói về cách dự đoán kích thước bàn chân từ hình ảnh đầu vào là bàn chân
